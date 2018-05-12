@@ -1,5 +1,8 @@
 _repo: A-Fairy-Tale-in-Two-Acts-Taken-from-Shakespeare--1763-_12842
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Shakespeare, William
@@ -29,6 +32,8 @@ creator:
 description:
 - Ascribed both to Garrick and to George Colman.
 - An abridgement of Garrick's alteration of Midsummer night's dream.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12842#A-Fairy-Tale-in-Two-Acts-Taken-from-Shakespeare--1763-
 gutenberg_issued: '2004-07-07'
 gutenberg_type: Text
 identifiers:
